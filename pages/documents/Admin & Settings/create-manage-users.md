@@ -34,7 +34,7 @@ It’s also possible for brands to create profiles - customized permissions sets
 
 * Set the maximum number of chats that the user can accept at any given moment. Consider your agent’s capabilities, the number of agents available, etc.
 * If your brand is enabled with the messaging feature, set the maximum number of messaging conversation.
-
+If you want the online time of your messaging agents to appear in the reporting you must assign them a chat concurrency of 1 even though they will not be handling chats.
 #### There are two options for this setting:
 
 a) You can set it to inherit it from the account level setting that can be configured through the footnote in the Users tab. Any change to the account level setting will impact all agents defined with setting.
