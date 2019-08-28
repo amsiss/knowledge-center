@@ -43,7 +43,7 @@ Feel free to use the ready-made templates or to customize them to match the look
 
 Embedded buttons are embedded within the code of your page, and will remain in the same place relative to the webpage. **When the button is relevant to the context of a particular page, an embedded button is the right choice.**
 
-For customers using chat, the embedded engagement will display even if no agents are available. When consumers click on the engagement button, they will be directed to an offline survey (the content of which can be configured in the engagement window studio).
+For customers using chat, the embedded engagement will display even if no agents are available. When consumers click on the engagement button, they will be directed to an offline survey (the content of which can be configured in the engagement window studio).  YOU CAN DISPLAY DIFFERENT BUTTONS FOR DIFFERENT STATUSES OR YOU CAN CHOOSE NOT TO POPULATE THE DIV (MAY REQUIRE SOME REPOSITIONING OF OTHER ELEMENTS DEPENDING ON WHERE THE DIV IS PLACED).
 
 ### Sticky engagements
 
